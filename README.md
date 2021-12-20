@@ -1,10 +1,14 @@
 ## Description
 ☑ A page to list the skills of any given user 
+
+
 ☑ *(If time allows)* when clicking on a particular skill, you can
 - show its details related to that user, OR
 - show a list of related experiences from that user, OR
 - show a list of people who have that same skill, OR
-- something else?
+- something else
+
+
 ☑ A deployed [live]() version of the solution.
 
 ### Endpoints
