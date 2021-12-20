@@ -9,7 +9,7 @@
 - something else
 
 
-☑ A deployed [live]() version of the solution.
+☑ A deployed [live](https://torre-challenge.vercel.app) version of the solution.
 
 ### Endpoints
 - GET https://torre.bio/api/bios/$username (gets bio information of $username)
@@ -32,4 +32,4 @@
 
 Jean Marie Gustave Mbonyinshuti
 
-[Genome]()
+[Genome](https://torre.co/jmgustave5)
